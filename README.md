@@ -2,7 +2,7 @@
 
 A Java simplified example of testing Event Sourcing systems, inspired by gregoryyoung/Simple.Testing
 
-Consider the following business scenarios (and test cases as well) expressed directly with the domain events and commands:
+Consider the following business scenarios (and test cases as well) expressed directly with the domain events and commands (example taken from Brian Donahue from the dddcqrs mailing list):
 
 ```
 @Test
